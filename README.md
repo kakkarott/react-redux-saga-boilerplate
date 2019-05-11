@@ -1,6 +1,6 @@
 # react-redux-saga-boilerplate
 
-Another simple boilerplate to start application using react-redux-saga. 
+Another simple boilerplate to quick start development using react-redux-saga. 
 
 ## Getting Started
 
