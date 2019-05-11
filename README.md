@@ -1,6 +1,6 @@
 # react-redux-saga-boilerplate
 
-Another simple boilerplate using react-redux-saga. 
+Another simple boilerplate to start application using react-redux-saga. 
 
 ## Getting Started
 
@@ -30,6 +30,7 @@ git clone https://github.com/kakkarott/react-redux-saga-boilerplate.git
 ```
   yarn run start
 ```
+Your application should be up and running on http://localhost:3000/
 
 ## License
 
